@@ -1,1 +1,1 @@
-# sentiment-analysis-with-logistic-regression
+# Sentiment Analysis with Logistic Regression
